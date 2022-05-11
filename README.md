@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![Projecto Dicee ](https://user-images.githubusercontent.com/77897104/167878616-80d0bcde-b662-44cd-879e-7953acc7a9ce.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
